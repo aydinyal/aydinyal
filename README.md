@@ -1,2 +1,2 @@
-###### crimsum.eth
-###### currently working on [webtee.xyz](https://webtee.xyz)
+###### mille.ust
+###### currently working as a software developer for [Mintify.me](https://mintify.me)
